@@ -1,10 +1,5 @@
 # Github Action 快速入门
 
-参考链接：
-[https://jamesiv.es/](https://jamesiv.es/)
-[https://github.com/JamesIves](https://github.com/JamesIves)
-[https://github.com/JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action)
-[https://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html](https://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
 
 ---
 ## 1. 简介
@@ -413,3 +408,9 @@ jobs:
 
 以后，每次修改后推送源码，`GitHub Actions` 都会自动运行，将构建产物发布到网页。
 
+
+参考链接：
+* [https://jamesiv.es/](https://jamesiv.es/)
+* [https://github.com/JamesIves](https://github.com/JamesIves)
+* [https://github.com/JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action)
+* [https://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html](https://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
