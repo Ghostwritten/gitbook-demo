@@ -1,4 +1,6 @@
----
+
+# 本地同步github仓库
+
 ## 1 安装与配置
 1.win下载git工具：git bash 、git gui 、git cmd 
 [https://git-scm.com/downloads](https://git-scm.com/downloads)
