@@ -1,0 +1,66 @@
+{
+  "title": "Git Handbook",
+  "author": "宗勋 - zongxun",
+  "description": "这是一本关于git、github、gitlab、gitbook的书籍",
+  "language": "zh-hans",
+  "plugins": [
+    "theme-comscore",
+    "prism",
+    "-highlight",
+    "copy-code-button",
+    "search-pro",
+    "-search",
+    "-lunr",
+    "expandable-chapters",
+    "splitter",
+    "-sharing",
+    "github-buttons",
+    "donate",
+    "tbfed-pagefooter",
+    "baidu-tongji",
+    "anchor-navigation-ex"
+  ],
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "user": "Ghostwritten",
+          "repo": "git-handbook", 
+          "type": "star",
+          "count": true,
+          "size": "small"
+        }, 
+        {
+          "user": "Ghostwritten",
+          "width": "160", 
+          "type": "follow", 
+          "count": true,
+          "size": "small"
+        }
+      ]
+    },
+    "donate": {
+      "button": "打赏",
+      "alipayText": "支付宝打赏",
+      "wechatText": "微信打赏",
+      "alipay": "https://github.com/Ghostwritten/git-handbook/blob/master/img/aplipay.png?raw=true",
+      "wechat": "https://github.com/Ghostwritten/git-handbook/blob/master/img/wechat.png?raw=true"
+    },
+    "prism": {
+      "lang": {
+        "shell": "bash"
+      }
+    },
+    "tbfed-pagefooter": {
+      "copyright":"Copyright &copy ghostwritten 2019",
+      "modify_label": "该文件修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "baidu-tongji": {
+      "token": "55e7dfe47f4dc1c018d4042fdfa62565"
+    },
+    "anchor-navigation-ex": {
+      "showLevel": false
+    }
+  }
+}
