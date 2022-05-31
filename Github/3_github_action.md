@@ -6,7 +6,7 @@
 [https://github.com/JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action)
 [https://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html](https://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
 
-----
+---
 ## 1. 简介
 [GitHub Actions](https://docs.github.com/cn/actions/quickstart) 是 GitHub 的持续集成服务，于2018年10月推出。
 
@@ -135,6 +135,7 @@ jobs:
   job3:
     needs: [job1, job2]
 ```
+
 ### 3.3 运行主机环境
 `runs-on`字段指定运行所需要的虚拟机环境。它是必填字段。目前可用的虚拟机如下。
 
@@ -151,6 +152,7 @@ runs-on: ubuntu-18.04
 
 
 ### 3.4 运行步骤
+
 ```bash
 #`steps`字段指定每个 `Job` 的运行步骤，可以包含一个或多个步骤。每个步骤都可以指定以下三个字段。
 jobs.<job_id>.steps.name：步骤名称。
@@ -230,6 +232,7 @@ docker://{image}:{tag}
 ```
 
 ### 3.6 显示workflow status
+
 ```bash
 ![](https://github.com/actions/hello-world/workflows/Greet Everyone/badge.svg)
 ```
@@ -279,6 +282,7 @@ docker://{image}:{tag}
       super_secret: ${{ secrets.SuperSecret }}
 
 ```
+
 ### 3.10 action/checkout检查
 [https://github.com/actions/checkout](https://github.com/actions/checkout)
 
