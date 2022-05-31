@@ -43,8 +43,8 @@
       "button": "打赏",
       "alipayText": "支付宝打赏",
       "wechatText": "微信打赏",
-      "alipay": "https://github.com/Ghostwritten/git-handbook/blob/master/img/aplipay.png?raw=true",
-      "wechat": "https://github.com/Ghostwritten/git-handbook/blob/master/img/wechat.png?raw=true"
+      "alipay": "https://github.com/Ghostwritten/gitbook-demo/blob/master/img/aplipay.png?raw=true",
+      "wechat": "https://github.com/Ghostwritten/gitbook-demo/blob/master/img/wechat.png?raw=true"
     },
     "prism": {
       "lang": {
