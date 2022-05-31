@@ -3,6 +3,18 @@
   "author": "宗勋 - zongxun",
   "description": "这是一本关于git、github、gitlab、gitbook的书籍",
   "language": "zh-hans",
+  "links": {
+     "sharing": {
+         "all": null,
+         "facebook": null,
+         "google": null,
+         "twitter": null,
+         "weibo": null
+     },
+     "sidebar": {
+        "zongxun's Blog": "https://smoothies.com.cn"
+     }
+  },
   "plugins": [
     "theme-comscore",
     "prism",
@@ -14,6 +26,7 @@
     "expandable-chapters",
     "splitter",
     "-sharing",
+    "sharing-plus",
     "github-buttons",
     "donate",
     "tbfed-pagefooter",
@@ -52,7 +65,7 @@
       }
     },
     "tbfed-pagefooter": {
-      "copyright":"Copyright &copy ghostwritten 2019",
+      "copyright":"Copyright &copy ghostwritten 浙ICP备2020032454号 2019",
       "modify_label": "该文件修订时间：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
@@ -61,6 +74,21 @@
     },
     "anchor-navigation-ex": {
       "showLevel": false
-    }
+    },
+
+    "sharing": {
+      "douban": true,
+      "facebook": false,
+      "google": false,
+      "pocket": false,
+      "qq": false,
+      "qzone": true,
+      "twitter": true,
+      "weibo": true,
+    "all": [
+       "douban", "facebook", "google", "instapaper", "linkedin","twitter", "weibo", 
+       "messenger","qq", "qzone","viber","whatsapp"
+    ]
+   }
   }
 }
