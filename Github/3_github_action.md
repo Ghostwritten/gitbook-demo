@@ -380,7 +380,7 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Ì†ΩÌªéÔ∏è
+      - name: Checkout
         uses: actions/checkout@v1
 
       - name: Build and Deploy
