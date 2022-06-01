@@ -65,9 +65,9 @@ def markdown_title_name(dire, base_dir,filename):
     with open(path_filename) as f:
         firstline = f.readline().rstrip()
 
-    if firstline.isalnum():
+    #if not firstline.isalnum():
+    if firstline == '' or firstline == '---':
       title = filename.split('.',1)[0]
-      print(filename)
     else:
       title = firstline.lower().strip()
       for i in range(0, len(title)):

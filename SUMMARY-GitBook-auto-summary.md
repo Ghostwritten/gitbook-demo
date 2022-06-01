@@ -5,7 +5,6 @@
   - [git 介绍](Git/1_git_introduce.markdown)
   - [git 实践](Git/2_git_practice.md)
 - Github
-  - [2_github_local_pull_github](Github/2_github_local_pull_github.md)
   - [github action 快速入门](Github/3_github_action.md)
   - [github 介绍](Github/1_github_introduce.md)
   - [github 定制主页](Github/4_github_page.md)
@@ -14,8 +13,3 @@
   - [gitbook 发布 github pages](Gitbook/3_github_pages_gitbook.md)
   - [gitbook 快速入门](Gitbook/1_gitbook_start.md)
 - Gitlab
-  - [3_gitlab_config](Gitlab/3_gitlab_config.md)
-  - [4_gitlab_runner](Gitlab/4_gitlab_runner.md)
-  - [5_gitlab_runner_management](Gitlab/5_gitlab_runner_management.md)
-  - [1_gitlab_start](Gitlab/1_gitlab_start.md)
-  - [2_gitlab_deploy](Gitlab/2_gitlab_deploy.md)
