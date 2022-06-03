@@ -1,0 +1,36 @@
+{
+  "name": "gitbook-demo",
+  "version": "1.0.0",
+  "description": "这是一本关于集合git、github、gitlab、gitbook、gitOps的书。",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-anchor-navigation-ex": "^1.0.14",
+    "gitbook-plugin-baidu-tongji": "^1.0.4",
+    "gitbook-plugin-copy-code-button": "^0.0.2",
+    "gitbook-plugin-donate": "^1.0.2",
+    "gitbook-plugin-expandable-chapters": "^0.2.0",
+    "gitbook-plugin-github-buttons": "^3.0.0",
+    "gitbook-plugin-prism": "^2.4.0",
+    "gitbook-plugin-search-pro": "^2.0.2",
+    "gitbook-plugin-sharing-plus": "^0.0.2",
+    "gitbook-plugin-sidebar-style": "^1.0.2",
+    "gitbook-plugin-simple-page-toc": "^0.1.2",
+    "gitbook-plugin-splitter": "^0.0.8",
+    "gitbook-plugin-tbfed-pagefooter": "^0.0.1",
+    "gitbook-plugin-theme-comscore": "^0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghostwritten/gitbook-demo.git"
+  },
+  "author": "zongxun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ghostwritten/gitbook-demo/issues"
+  },
+  "homepage": "https://github.com/Ghostwritten/gitbook-demo#readme"
+}
