@@ -27,6 +27,7 @@
     "splitter",
     "-sharing",
     "sharing-plus",
+    "sidebar-style",
     "github-buttons",
     "donate",
     "tbfed-pagefooter",
@@ -74,6 +75,11 @@
     },
     "anchor-navigation-ex": {
       "showLevel": false
+    },
+
+    "sidebar-style": {
+       "title": "《Git Demo》",
+       "author": "zongxun"
     },
 
     "sharing": {
