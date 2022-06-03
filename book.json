@@ -85,16 +85,16 @@
 
     "flexible-alerts": {
       "note": {
-        "label": "Hinweis"
+        "label": "注意"
       },
       "tip": {
-        "label": "Tipp"
+        "label": "技巧"
       },
       "warning": {
-        "label": "Warnung"
+        "label": "警告"
       },
       "danger": {
-        "label": "Achtung"
+        "label": "危险"
       }
     },
 
