@@ -77,6 +77,5 @@ $ cat SUMMARY.md
 
 ```
 > [!NOTE|style:flat|lable:Mylable|iconVisibility:hidden]
-> 注意：如果没有命令book，执行:
-> ln -s /usr/local/node-v10.24.0-linux-x64/bin/book /usr/local/bin/
+> 注意：如果没有命令book，执行: `ln -s /usr/local/node-v10.24.0-linux-x64/bin/book /usr/local/bin/`
 
