@@ -9,6 +9,7 @@
     "gitbook-plugin-copy-code-button": "^0.0.2",
     "gitbook-plugin-donate": "^1.0.2",
     "gitbook-plugin-expandable-chapters": "^0.2.0",
+    "gitbook-plugin-flexible-alerts": "^1.0.3",
     "gitbook-plugin-github-buttons": "^3.0.0",
     "gitbook-plugin-prism": "^2.4.0",
     "gitbook-plugin-search-pro": "^2.0.2",
