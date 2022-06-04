@@ -16,34 +16,36 @@
      }
   },
   "plugins": [
-    "theme-comscore",
+    "3-ba",
+    "anchor-navigation-ex",
+    "baidu-tongji",
+    "copy-code-button",
+    "change_girls",
+    "custom-favicon",
+    "donate",
+    "expandable-chapters",
+    "flexible-alerts",
+    "github-buttons",
+    "lightbox",
     "prism",
     "pageview-count",
     "-highlight",
-    "copy-code-button",
-    "change_girls",
-    "search-plus",
     "-search",
     "-lunr",
-    "expandable-chapters",
+    "search-plus",
     "splitter",
     "-sharing",
     "sharing-plus",
     "sidebar-style",
-    "3-ba",
-    "flexible-alerts",
-    "github-buttons",
-    "donate",
-    "tbfed-pagefooter",
-    "baidu-tongji",
-    "anchor-navigation-ex"
+    "theme-comscore",
+    "tbfed-pagefooter"
   ],
   "pluginsConfig": {
     "github-buttons": {
       "buttons": [
         {
           "user": "Ghostwritten",
-          "repo": "git-handbook", 
+          "repo": "gitbook-demo", 
           "type": "star",
           "count": true,
           "size": "small"
@@ -59,11 +61,13 @@
     },
 
     "change_girls" : {
-      "time" : 5,
+      "time" : 10,
       "urls" : [
           "https://www.bizhishe.com/d/file/2019-08-26/1566827846505876.jpg", "https://www.bizhishe.com/d/file/2019-07-24/1563977671157231.jpg", "https://www.bizhishe.com/d/file/2019-07-14/1563116649970786.jpg"
       ]
     },
+
+    "favicon": "assets/imgs/1_girl.ico",
 
     "donate": {
       "button": "打赏",
@@ -90,7 +94,7 @@
     },
 
     "sidebar-style": {
-       "title": "《Git Demo》",
+       "title": "《Gitbook Demo》",
        "author": "zongxun"
     },
 
@@ -123,8 +127,7 @@
       "twitter": false,
       "weibo": false,
     "all": [
-       "douban", "facebook", "google", "instapaper", "linkedin","twitter", "weibo", 
-       "messenger","qq", "qzone","viber","whatsapp"
+       "facebook", "google","twitter"
     ]
    }
   }
