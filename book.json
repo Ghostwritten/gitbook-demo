@@ -26,6 +26,7 @@
     "expandable-chapters",
     "flexible-alerts",
     "github-buttons",
+    "github",
     "lightbox",
     "insert-logo",
     "prism",
@@ -42,19 +43,17 @@
     "tbfed-pagefooter"
   ],
   "pluginsConfig": {
+
+    "github": {
+      "url": "https://github.com/Ghostwritten"
+    },
+
     "github-buttons": {
       "buttons": [
         {
           "user": "Ghostwritten",
           "repo": "gitbook-demo", 
           "type": "star",
-          "count": true,
-          "size": "small"
-        }, 
-        {
-          "user": "Ghostwritten",
-          "width": "160", 
-          "type": "follow", 
           "count": true,
           "size": "small"
         }
