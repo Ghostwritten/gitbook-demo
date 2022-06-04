@@ -120,7 +120,7 @@
 
     "insert-logo": {
       "url": "https://www.bizhishe.com/d/file/2019-07-14/1563116649268975.jpg",
-      "style": "background: none; max-height: 30px; min-height: 30px"
+      "style": "background: none; max-height: 100px; min-height: 100px"
     },
 
     "sharing": {
