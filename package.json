@@ -4,6 +4,7 @@
   "description": "这是一本关于集合git、github、gitlab、gitbook、gitOps的书。",
   "main": "index.js",
   "dependencies": {
+    "gitbook-plugin-3-ba": "^0.9.0",
     "gitbook-plugin-anchor-navigation-ex": "^1.0.14",
     "gitbook-plugin-baidu-tongji": "^1.0.4",
     "gitbook-plugin-copy-code-button": "^0.0.2",

@@ -28,12 +28,12 @@
     "-sharing",
     "sharing-plus",
     "sidebar-style",
+    "3-ba",
     "flexible-alerts",
     "github-buttons",
     "donate",
     "tbfed-pagefooter",
     "baidu-tongji",
-    "disqus",
     "anchor-navigation-ex"
   ],
   "pluginsConfig": {
@@ -99,8 +99,8 @@
       }
     },
 
-    "disqus": {
-      "shortName": "introducetogitbook"
+    "3-ba": {
+        "token": "9ffc0dce8d7079aceab6b0bc18eb626b"
     },
 
     "sharing": {
