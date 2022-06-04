@@ -20,7 +20,7 @@
     "prism",
     "-highlight",
     "copy-code-button",
-    "search-pro",
+    "search-plus",
     "-search",
     "-lunr",
     "expandable-chapters",
@@ -33,6 +33,7 @@
     "donate",
     "tbfed-pagefooter",
     "baidu-tongji",
+    "disqus",
     "anchor-navigation-ex"
   ],
   "pluginsConfig": {
@@ -85,28 +86,32 @@
 
     "flexible-alerts": {
       "note": {
-        "label": "注意"
+        "label": "Note"
       },
       "tip": {
-        "label": "技巧"
+        "label": "Tip"
       },
       "warning": {
-        "label": "警告"
+        "label": "Warning"
       },
       "danger": {
-        "label": "危险"
+        "label": "Danger"
       }
     },
 
+    "disqus": {
+      "shortName": "introducetogitbook"
+    },
+
     "sharing": {
-      "douban": true,
+      "douban": false,
       "facebook": false,
       "google": false,
       "pocket": false,
       "qq": false,
-      "qzone": true,
-      "twitter": true,
-      "weibo": true,
+      "qzone": false,
+      "twitter": false,
+      "weibo": false,
     "all": [
        "douban", "facebook", "google", "instapaper", "linkedin","twitter", "weibo", 
        "messenger","qq", "qzone","viber","whatsapp"
