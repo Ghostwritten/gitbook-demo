@@ -15,6 +15,7 @@
     "gitbook-plugin-expandable-chapters": "^0.2.0",
     "gitbook-plugin-flexible-alerts": "^1.0.3",
     "gitbook-plugin-github-buttons": "^3.0.0",
+    "gitbook-plugin-insert-logo": "^0.1.5",
     "gitbook-plugin-lightbox": "^1.2.0",
     "gitbook-plugin-pageview-count": "^1.0.1",
     "gitbook-plugin-prism": "^2.4.0",

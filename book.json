@@ -1,5 +1,5 @@
 {
-  "title": "Git Handbook",
+  "title": "Gitbook Demo",
   "author": "宗勋 - zongxun",
   "description": "这是一本关于git、github、gitlab、gitbook的书籍",
   "language": "zh-hans",
@@ -27,6 +27,7 @@
     "flexible-alerts",
     "github-buttons",
     "lightbox",
+    "insert-logo",
     "prism",
     "pageview-count",
     "-highlight",
@@ -115,6 +116,11 @@
 
     "3-ba": {
         "token": "9ffc0dce8d7079aceab6b0bc18eb626b"
+    },
+
+    "insert-logo": {
+      "url": "https://www.bizhishe.com/d/file/2019-07-14/1563116649268975.jpg",
+      "style": "background: none; max-height: 30px; min-height: 30px"
     },
 
     "sharing": {
