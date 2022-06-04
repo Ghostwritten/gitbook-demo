@@ -17,6 +17,7 @@
   },
   "plugins": [
     "3-ba",
+    "advanced-emoji",
     "anchor-navigation-ex",
     "baidu-tongji",
     "copy-code-button",
