@@ -80,6 +80,12 @@
       "alipay": "https://github.com/Ghostwritten/gitbook-demo/blob/gh-pages/assets/imgs/aplipay.png?raw=true",
       "wechat": "https://github.com/Ghostwritten/gitbook-demo/blob/gh-pages/assets/imgs/wechat.png?raw=true"
     },
+
+    "edit-link": {
+     "base": "https://github.com/Ghostwritten/gitbook-demo/edit/master/docs",
+     "label": "Edit"
+    },
+
     "prism": {
       "lang": {
         "shell": "bash"
