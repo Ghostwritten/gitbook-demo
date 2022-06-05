@@ -27,8 +27,27 @@ email='1zoxun1@gmail.com'
 repo="github.com/${user}/gitbook-demo.git"
 
 book sm
+cp SUMMARY.md Overview.md
 python3 gitbook-auto-summary.py  .
 
+delete_README() {
+lines_README=`cat SUMMARY-GitBook-auto-summary.md  |grep "*" |grep README |grep -v "序言"  | awk '{print $2}'`
+
+for line_README in $lines_README
+do 
+ echo $line_README
+  line_README=${line_README//\//\\\/}
+  line_README=${line_README//\[/\\[}
+  line_README=${line_README//\]/\\]}
+  line_README=${line_README//\(/\\\(}
+  line_README=${line_README//\)/\\\)}
+  line_README=${line_README//\-/\\\-}
+ sed -r -i "/$line_README/d" SUMMARY-GitBook-auto-summary.md
+done
+
+}
+
+add_README() {
 dirs=`grep -E '\- ' SUMMARY-GitBook-auto-summary.md  | awk '{print $2}'`
 
 for dir in $dirs
@@ -45,12 +64,18 @@ done
 
 cp -r SUMMARY-GitBook-auto-summary.md SUMMARY.md
 
+}
+
+push_master(){
+
 gitbook build 
 
 git add .
 git commit -m "${update}"
 git push origin master
 
+}
+push_gh-pages(){
 cd _book
 git init
 git remote add origin https://${repo}
@@ -58,3 +83,10 @@ git add .
 git commit -m "${update} For Github Pages"
 git branch -M master
 git push --force --quiet "https://${TOKEN}@${repo}" master:gh-pages
+
+}
+
+delete_README
+add_README
+push_master
+push_gh-pages
