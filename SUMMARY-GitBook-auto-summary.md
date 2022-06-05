@@ -12,7 +12,7 @@
 - [Gitbook](Gitbook/README.md)
   * [gitbook 插件 summary](Gitbook/2_gitbook-plugin-summary.md)
   * [gitbook 发布 github pages](Gitbook/3_github_pages_gitbook.md)
-    - [Plugins](Gitbook/Plugins/README.md)
+  - [Plugins](Gitbook/Plugins/README.md)
     * [emoji 表情包](Gitbook/Plugins/1_plugin_Emoji.md)
     * [插件](Gitbook/Plugins/README.md)
   * [gitbook 快速入门](Gitbook/1_gitbook_start.md)

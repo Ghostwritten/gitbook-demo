@@ -37,13 +37,15 @@
     "-highlight",
     "-search",
     "-lunr",
+    "rss",
     "search-plus",
     "splitter",
     "-sharing",
     "sharing-plus",
     "sidebar-style",
     "theme-comscore",
-    "tbfed-pagefooter"
+    "tbfed-pagefooter",
+    "video-player"
   ],
   "pluginsConfig": {
 

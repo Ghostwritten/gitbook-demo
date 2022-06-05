@@ -5,6 +5,7 @@
 ## 联系
 
 - Email: 1zoxun1@gmail.com
+- WeChat: weke59
 - [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/cnghostwritten?style=social)](https://twitter.com/cnghostwritten)
 
 ## 公众号
