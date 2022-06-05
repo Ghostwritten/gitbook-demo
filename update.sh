@@ -29,6 +29,7 @@ repo="github.com/${user}/gitbook-demo.git"
 rm -rf About.md 
 book sm
 cp SUMMARY.md About.md
+sed -i 's/Gitbook Demo/目录/g' About.md
 python3 gitbook-auto-summary.py  .
 
 delete_README() {
@@ -63,7 +64,7 @@ do
   sed -r -i "s#\\- ${dir}\$#$dir_README#g" SUMMARY-GitBook-auto-summary.md
 done
 
-cp -r SUMMARY-GitBook-auto-summary.md SUMMARY.md
+mv SUMMARY-GitBook-auto-summary.md SUMMARY.md
 
 }
 
