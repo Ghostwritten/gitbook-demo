@@ -40,11 +40,11 @@ def output_markdown(dire, base_dir, output_file, append, iter_depth=0):
                                      'SUMMARY-GitBook-auto-summary.md'] 
                     or iter_depth != 0): # escape SUMMARY.md at base directory
                     output_file.write('  ' * iter_depth + 
-                        '- [{}]({})\n'.format(write_md_filename(dire, base_dir,filename, 
+                        '* [{}]({})\n'.format(write_md_filename(dire, base_dir,filename, 
                                                                 append), 
                             os.path.join(os.path.relpath(dire, base_dir), 
                                          filename)))
-                    print('  ' * iter_depth + '- [{}]({})\n'.format(write_md_filename(dire, base_dir,filename, append), os.path.join(os.path.relpath(dire, base_dir),filename)))
+                    print('  ' * iter_depth + '* [{}]({})\n'.format(write_md_filename(dire, base_dir,filename, append), os.path.join(os.path.relpath(dire, base_dir),filename)))
                     # iter depth for indent, relpath and join to write link.
 
 def mdfile_in_dir(dire):

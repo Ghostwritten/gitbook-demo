@@ -82,7 +82,7 @@
     },
 
     "edit-link": {
-     "base": "https://github.com/Ghostwritten/gitbook-demo/edit/master/docs",
+     "base": "https://github.com/Ghostwritten/gitbook-demo/edit/master/",
      "label": "Edit"
     },
 

@@ -1,24 +1,21 @@
-# Summary
+# Gitbook Demo
 
-- [序言](./README.md)
-- Git
-  - [git 介绍](Git/1_git_introduce.markdown)
-  - [git 实践](Git/2_git_practice.md)
-- Github
-  - [2_github_local_pull_github](Github/2_github_local_pull_github.md)
-  - [github action 快速入门](Github/3_github_action.md)
-  - [github 介绍](Github/1_github_introduce.md)
-  - [github 定制主页](Github/4_github_page.md)
-- Gitbook
-  - [gitbook 插件 summary](Gitbook/2_gitbook-plugin-summary.md)
-  - [gitbook 发布 github pages](Gitbook/3_github_pages_gitbook.md)
-  - [gitbook 快速入门](Gitbook/1_gitbook_start.md)
-  - plugins
-    - [emoji 表情包](Gitbook/plugins/1_plugin_Emoji.md)
-    - [插件](Gitbook/plugins/README.md)
-- Gitlab
-  - [gitlab 配置](Gitlab/3_gitlab_config.md)
-  - [gitlab runner 管理](Gitlab/5_gitlab_runner_management.md)
-  - [gitlab runner 部署](Gitlab/4_gitlab_runner_deploy.md)
-  - [gitlab 开始](Gitlab/1_gitlab_start.md)
-  - [gitlab 部署](Gitlab/2_gitlab_deploy.md)
+- [Git](Git/README.md)
+  * [1 Git Practice](Git/1_git_practice.md)
+- [Gitbook](Gitbook/README.md)
+  - [Plugins](Gitbook/Plugins/README.md)
+    * [1 Plugin Emoji](Gitbook/Plugins/1_plugin_Emoji.md)
+  * [1 Gitbook Start](Gitbook/1_gitbook_start.md)
+  * [2 Gitbook Plugin Summary](Gitbook/2_gitbook-plugin-summary.md)
+  * [3 Github Pages Gitbook](Gitbook/3_github_pages_gitbook.md)
+- [Github](Github/README.md)
+  * [2 Github Local Pull Github](Github/2_github_local_pull_github.md)
+  * [3 Github Action](Github/3_github_action.md)
+  * [4 Github Page](Github/4_github_page.md)
+- [Gitlab](Gitlab/README.md)
+  * [1 Gitlab Start](Gitlab/1_gitlab_start.md)
+  * [2 Gitlab Deploy](Gitlab/2_gitlab_deploy.md)
+  * [3 Gitlab Config](Gitlab/3_gitlab_config.md)
+  * [4 Gitlab Runner Deploy](Gitlab/4_gitlab_runner_deploy.md)
+  * [5 Gitlab Runner Management](Gitlab/5_gitlab_runner_management.md)
+* [SUMMARY Git Book Auto Summary](SUMMARY-GitBook-auto-summary.md)
