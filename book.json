@@ -20,11 +20,12 @@
     "advanced-emoji",
     "anchor-navigation-ex",
     "baidu-tongji",
-    "copy-code-button",
+    "code",
     "change_girls",
     "custom-favicon",
     "donate",
-    "expandable-chapters",
+    "chapter-fold",
+    "edit-link",
     "flexible-alerts",
     "github-buttons",
     "github",
@@ -67,6 +68,8 @@
           "https://www.bizhishe.com/d/file/2019-08-26/1566827846505876.jpg", "https://www.bizhishe.com/d/file/2019-07-24/1563977671157231.jpg", "https://www.bizhishe.com/d/file/2019-07-14/1563116649970786.jpg"
       ]
     },
+
+    "chapter-fold":{},
 
     "favicon": "assets/imgs/1_girl.ico",
 
@@ -123,17 +126,29 @@
       "style": "background: none; max-height: 100px; min-height: 100px"
     },
 
+    "rss": {
+      "title": "Gitbook Demo",
+      "description": "This is the best book ever.",
+      "author": "Zong Xun",
+      "site_url": "https://smoothies.com.cn/gitbook-demo/",
+      "managingEditor": "writer@smoothies.com.cn (Zong Xun)",
+      "webMaster": "webmaster@smoothies.com.cn (Zong Xun)",
+      "categories": [
+        "gitbook"
+      ]
+    },
+
     "sharing": {
       "douban": false,
-      "facebook": false,
+      "facebook": true,
       "google": false,
       "pocket": false,
       "qq": false,
       "qzone": false,
-      "twitter": false,
+      "twitter": true,
       "weibo": false,
     "all": [
-       "facebook", "google","twitter"
+       "facebook", "google", "twitter"
     ]
    }
   }
