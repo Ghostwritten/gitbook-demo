@@ -32,6 +32,7 @@
     "github",
     "lightbox",
     "insert-logo",
+    "musicxml",
     "prism",
     "pageview-count",
     "-highlight",
@@ -44,8 +45,7 @@
     "sharing-plus",
     "sidebar-style",
     "theme-comscore",
-    "tbfed-pagefooter",
-    "video-player"
+    "tbfed-pagefooter"
   ],
   "pluginsConfig": {
 

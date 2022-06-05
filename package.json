@@ -20,6 +20,7 @@
     "gitbook-plugin-github-buttons": "^3.0.0",
     "gitbook-plugin-insert-logo": "^0.1.5",
     "gitbook-plugin-lightbox": "^1.2.0",
+    "gitbook-plugin-musicxml": "^1.0.2",
     "gitbook-plugin-pageview-count": "^1.0.1",
     "gitbook-plugin-prism": "^2.4.0",
     "gitbook-plugin-rss": "^3.0.2",
