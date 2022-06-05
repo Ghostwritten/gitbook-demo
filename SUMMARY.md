@@ -15,6 +15,7 @@
   - [gitbook 快速入门](Gitbook/1_gitbook_start.md)
   - plugins
     - [emoji 表情包](Gitbook/plugins/1_plugin_Emoji.md)
+    - [插件](Gitbook/plugins/README.md)
 - Gitlab
   - [gitlab 配置](Gitlab/3_gitlab_config.md)
   - [gitlab runner 管理](Gitlab/5_gitlab_runner_management.md)
