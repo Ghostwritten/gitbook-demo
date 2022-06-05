@@ -41,8 +41,10 @@ do
   dir_README=${dir_README//\(/\\\(}
   dir_README=${dir_README//\)/\\\)}
   dir_README=${dir_README//\-/\\\-}
-  sed -r -i "s#\\- ${dir}\$#$dir_README#g" SUMMARY.md
+  sed -r -i "s#\\- ${dir}\$#$dir_README#g" SUMMARY-GitBook-auto-summary.md
 done
+
+cp -r SUMMARY-GitBook-auto-summary.md SUMMARY.md
 
 gitbook build 
 
