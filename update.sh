@@ -28,7 +28,7 @@ repo="github.com/${user}/gitbook-demo.git"
 
 rm -rf About.md 
 book sm
-mv SUMMARY.md About.md
+cp SUMMARY.md About.md
 python3 gitbook-auto-summary.py  .
 
 delete_README() {
