@@ -139,6 +139,7 @@
       "title": "Gitbook Demo",
       "description": "This is the best book ever.",
       "author": "Zong Xun",
+      "feed_url": "http://gitbook.zhangjikai.com/rss",
       "site_url": "https://smoothies.com.cn/gitbook-demo/",
       "managingEditor": "writer@smoothies.com.cn (Zong Xun)",
       "webMaster": "webmaster@smoothies.com.cn (Zong Xun)",
