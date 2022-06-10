@@ -161,8 +161,14 @@
           "text": "Home",
           "link": "https://smoothies.com.cn/"
          }, {
-          "text": "Page",
+          "text": "Demo",
+          "link": "https://smoothies.com.cn/gitbook-demo/"
+         }, {
+          "text": "Command",
           "link": "https://smoothies.com.cn/linux-command-docs/"
+         }, {
+          "text": "Gitbook",
+          "link": "https://smoothies.com.cn/gitbook-docs/"
         }],
         "style": {
           "color": "black",
