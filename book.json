@@ -33,6 +33,7 @@
     "lightbox",
     "insert-logo",
     "musicxml",
+    "navbar",
     "prism",
     "pageview-count",
     "-highlight",
@@ -147,6 +148,34 @@
         "gitbook"
       ]
     },
+
+
+    "navbar": {
+      "logo": {
+        "link": "https://smoothies.com.cn/",
+        "image": "https://images5.alphacoders.com/476/476162.jpg",
+        "alt": "Ghostwritten"
+      },
+      "menu": {
+        "items": [{
+          "text": "Home",
+          "link": "https://smoothies.com.cn/"
+         }, {
+          "text": "Page",
+          "link": "https://smoothies.com.cn/linux-command-docs/"
+        }],
+        "style": {
+          "color": "black",
+          "hover": "#3579e2"
+        }
+      },
+      "style": {
+        "backgroundColor": "white",
+        "linkColor": "black",
+        "linkHoverColor": "blue"
+      }
+    },
+  
 
     "sharing": {
       "douban": false,
