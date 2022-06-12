@@ -45,13 +45,17 @@
     "-sharing",
     "sharing-plus",
     "sidebar-style",
-    "theme-comscore",
+    "theme-default",
     "tbfed-pagefooter"
   ],
   "pluginsConfig": {
 
     "github": {
       "url": "https://github.com/Ghostwritten"
+    },
+
+    "theme-default": {
+      "showLevel": true
     },
 
     "github-buttons": {
