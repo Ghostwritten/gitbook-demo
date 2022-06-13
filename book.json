@@ -21,6 +21,7 @@
     "advanced-emoji",
     "anchor-navigation-ex",
     "baidu-tongji",
+    "theme-door",
     "code",
     "change_girls",
     "custom-favicon",
@@ -33,7 +34,6 @@
     "lightbox",
     "insert-logo",
     "musicxml",
-    "navbar",
     "prism",
     "pageview-count",
     "-highlight",
@@ -48,7 +48,33 @@
     "theme-default",
     "tbfed-pagefooter"
   ],
+
+  "variables": {
+    "doorTheme": {
+      "nav": [
+        {
+          "url": "https://smoothies.com.cn/gitbook-docs/",
+          "target": "_blank",
+          "name": "Gitbook"
+        },
+        {
+          "url": "https://smoothies.com.cn/linux-command-docs/",
+          "target": "_blank",
+          "name": "command"
+        }
+      ]
+    }
+  },
+
+
   "pluginsConfig": {
+
+
+    "doorTheme": {
+      "search-placeholder": "请输入关键字搜索",
+      "logo": "https://www.bizhishe.com/d/file/2019-07-14/1563116649268975.jpg",
+      "favicon": "assets/imgs/1_girl.ico"
+    },
 
     "github": {
       "url": "https://github.com/Ghostwritten"
@@ -154,38 +180,6 @@
     },
 
 
-    "navbar": {
-      "logo": {
-        "link": "https://smoothies.com.cn/",
-        "image": "https://images5.alphacoders.com/476/476162.jpg",
-        "alt": "Ghostwritten"
-      },
-      "menu": {
-        "items": [{
-          "text": "Home",
-          "link": "https://smoothies.com.cn/"
-         }, {
-          "text": "Demo",
-          "link": "https://smoothies.com.cn/gitbook-demo/"
-         }, {
-          "text": "Command",
-          "link": "https://smoothies.com.cn/linux-command-docs/"
-         }, {
-          "text": "Gitbook",
-          "link": "https://smoothies.com.cn/gitbook-docs/"
-        }],
-        "style": {
-          "color": "black",
-          "hover": "#3579e2"
-        }
-      },
-      "style": {
-        "backgroundColor": "white",
-        "linkColor": "black",
-        "linkHoverColor": "blue"
-      }
-    },
-  
 
     "sharing": {
       "douban": false,

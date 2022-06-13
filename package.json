@@ -33,6 +33,8 @@
     "gitbook-plugin-splitter": "^0.0.8",
     "gitbook-plugin-tbfed-pagefooter": "^0.0.1",
     "gitbook-plugin-theme-comscore": "^0.0.3",
+    "gitbook-plugin-theme-default-customize": "^1.0.1",
+    "gitbook-plugin-theme-door": "^1.0.1",
     "video-player": "0.0.1"
   },
   "devDependencies": {},
