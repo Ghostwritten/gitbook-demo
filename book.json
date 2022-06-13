@@ -70,12 +70,6 @@
   "pluginsConfig": {
 
 
-    "doorTheme": {
-      "search-placeholder": "请输入关键字搜索",
-      "logo": "https://www.bizhishe.com/d/file/2019-07-14/1563116649268975.jpg",
-      "favicon": "assets/imgs/1_girl.ico"
-    },
-
     "github": {
       "url": "https://github.com/Ghostwritten"
     },
