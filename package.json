@@ -35,6 +35,7 @@
     "gitbook-plugin-theme-comscore": "^0.0.3",
     "gitbook-plugin-theme-default-customize": "^1.0.1",
     "gitbook-plugin-theme-door": "^1.0.1",
+    "hexo-plugin-gitalk": "^0.2.0",
     "video-player": "0.0.1"
   },
   "devDependencies": {},

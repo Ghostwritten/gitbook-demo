@@ -21,7 +21,6 @@
     "advanced-emoji",
     "anchor-navigation-ex",
     "baidu-tongji",
-    "theme-door",
     "code",
     "change_girls",
     "custom-favicon",
@@ -31,6 +30,7 @@
     "flexible-alerts",
     "github-buttons",
     "github",
+    "gitalk",
     "lightbox",
     "insert-logo",
     "musicxml",
@@ -48,23 +48,6 @@
     "theme-default",
     "tbfed-pagefooter"
   ],
-
-  "variables": {
-    "doorTheme": {
-      "nav": [
-        {
-          "url": "https://smoothies.com.cn/gitbook-docs/",
-          "target": "_blank",
-          "name": "Gitbook"
-        },
-        {
-          "url": "https://smoothies.com.cn/linux-command-docs/",
-          "target": "_blank",
-          "name": "command"
-        }
-      ]
-    }
-  },
 
 
   "pluginsConfig": {
@@ -177,14 +160,14 @@
 
     "sharing": {
       "douban": false,
-      "facebook": true,
+      "facebook": false,
       "google": false,
       "pocket": false,
       "qq": false,
       "qzone": false,
-      "twitter": true,
+      "twitter": false,
       "weibo": false,
-    "all": [
+      "all": [
        "facebook", "google", "twitter"
     ]
    }
