@@ -30,7 +30,7 @@
     "flexible-alerts",
     "github-buttons",
     "github",
-    "gitalk",
+    "gtalk",
     "lightbox",
     "insert-logo",
     "musicxml",
@@ -71,6 +71,14 @@
           "size": "small"
         }
       ]
+    },
+
+    "gtalk": {
+      "clientID": "685e9494cb4c2c2912b4",
+      "clientSecret": "efdae24f1c22c59d5878c3a35c94d75aacef6ec1",
+      "repo": "gitbook-demo",
+      "owner": "Ghostwritten",
+      "admin": ["Ghostwritten"]
     },
 
     "change_girls" : {

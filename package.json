@@ -18,6 +18,7 @@
     "gitbook-plugin-flexible-alerts": "^1.0.3",
     "gitbook-plugin-github": "^3.0.0",
     "gitbook-plugin-github-buttons": "^3.0.0",
+    "gitbook-plugin-gtalk": "0.0.7",
     "gitbook-plugin-insert-logo": "^0.1.5",
     "gitbook-plugin-lightbox": "^1.2.0",
     "gitbook-plugin-musicxml": "^1.0.2",
