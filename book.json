@@ -106,6 +106,9 @@
     },
 
     "prism": {
+      "css": [
+        "prismjs/themes/prism-solarizedlight.css"
+      ],
       "lang": {
         "shell": "bash"
       }
