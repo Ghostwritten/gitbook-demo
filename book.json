@@ -35,6 +35,7 @@
     "insert-logo",
     "musicxml",
     "prism",
+    "prism-themes",
     "pageview-count",
     "-highlight",
     "-search",
@@ -107,7 +108,7 @@
 
     "prism": {
       "css": [
-        "prismjs/themes/prism-solarizedlight.css"
+        "prism-themes/themes/prism-duotone-sea.css"
       ],
       "lang": {
         "shell": "bash"
