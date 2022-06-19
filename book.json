@@ -37,7 +37,7 @@
     "prism",
     "prism-themes",
     "pageview-count",
-    "pdf-multi-link",
+    "download-pdf-link",
     "-highlight",
     "-search",
     "-lunr",
@@ -117,7 +117,7 @@
     },
 
 
-    "pdf-multi-link": {
+    "download-pdf-link": {
       "base": "https://smoothies.com.cn/gitbook-demo/",
       "label":
        {
