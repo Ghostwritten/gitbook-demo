@@ -118,8 +118,7 @@
 
     "download-pdf-link": {
       "base": "https://smoothies.com.cn/gitbook-demo/",
-      "label"
-      }: {
+      "label": {
           "en": "Download PDF",
           "fr": "Télécharger le PDF"
       },
