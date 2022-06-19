@@ -1,6 +1,6 @@
 # Summary
 
-* [目录](./About.md)
+* [summary](./About.md)
 * [序言](./README.md)
 - [Git](Git/README.md)
   * [git 实践](Git/1_git_practice.md)
