@@ -118,8 +118,8 @@
 
     "download-pdf-link": {
       "base": "https://smoothies.com.cn/gitbook-demo/",
-      "label": "en": "PDF",
-
+      "label": "en": "PDF"
+    },
     "tbfed-pagefooter": {
       "copyright":"Copyright &copy ghostwritten 浙ICP备2020032454号 2022",
       "modify_label": "该文件修订时间：",
