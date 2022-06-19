@@ -24,6 +24,7 @@
     "code",
     "change_girls",
     "custom-favicon",
+    "copyright",
     "donate",
     "chapter-fold",
     "edit-link",
@@ -38,6 +39,7 @@
     "prism-themes",
     "pageview-count",
     "download-pdf-link",
+    "readmore",
     "-highlight",
     "-search",
     "-lunr",
@@ -91,6 +93,14 @@
     },
 
     "chapter-fold":{},
+
+    "copyright": {
+      "site": "https://smoothies.com.cn/gitbook-demo/",
+      "author": "ghostwritten",
+      "website": "ghostwritten",
+      "image": "https://pic4.zhimg.com/80/v2-94401c2c3fa20c1d5525cf6c16742909_xl.jpg",
+      "copyProtect": false
+    },
 
     "favicon": "assets/imgs/1_girl.ico",
 
@@ -166,6 +176,13 @@
     "insert-logo": {
       "url": "https://www.bizhishe.com/d/file/2019-07-14/1563116649268975.jpg",
       "style": "background: none; max-height: 100px; min-height: 100px"
+    },
+
+    "readmore":{
+      "blogId": "30114-1655657259931-499",
+      "name": "爱死亡机器人",
+      "qrcode": "https://pic2.zhimg.com/80/v2-94401c2c3fa20c1d5525cf6c16742909_1440w.jpg",
+      "keyword": "vip"
     },
 
     "rss": {

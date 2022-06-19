@@ -12,6 +12,7 @@
     "gitbook-plugin-change_girls": "^2.2.1",
     "gitbook-plugin-code": "^0.1.0",
     "gitbook-plugin-copy-code-button": "^0.0.2",
+    "gitbook-plugin-copyright": "^0.4.1",
     "gitbook-plugin-custom-favicon": "0.0.4",
     "gitbook-plugin-donate": "^1.0.2",
     "gitbook-plugin-download-pdf-link": "^2.0.0",
