@@ -5,6 +5,8 @@
 
 [GitBook](https://www.gitbook.com/) 是基于 Node.js 的开源命令行工具，用于输出漂亮的电子书。
 
+{% youtube src="https://www.youtube.com/watch?v=-MdyiRH6OAc&t" %}{% endyoutube %}
+
 GitBook 支持 Markdown 和 AsciiDoc 两种语法格式，能够输出 html，pdf，epub，mobi或者输出为静态网页多种格式。
 
 GitBook 特性：
