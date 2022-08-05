@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Gitbook Demo]]></title>
+        <description><![CDATA[This is the best book ever.]]></description>
+        <link>https://smoothies.com.cn/gitbook-demo/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 05 Aug 2022 10:55:25 GMT</lastBuildDate>
+        <atom:link href="http://gitbook.zhangjikai.com/rss" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[Zong Xun]]></author>
+        <managingEditor><![CDATA[writer@smoothies.com.cn (Zong Xun)]]></managingEditor>
+        <webMaster><![CDATA[webmaster@smoothies.com.cn (Zong Xun)]]></webMaster>
+        <category><![CDATA[gitbook]]></category>
+        <item>
+            <title><![CDATA[目录]]></title>
+            <description><![CDATA[https://pic4.zhimg.com/80/v2-94401c2c3fa20c1d5525cf6c16742909_xl.jpg]]></description>
+            <link>https://smoothies.com.cn/gitbook-demo/About.html</link>
+            <guid isPermaLink="true">https://smoothies.com.cn/gitbook-demo/About.html</guid>
+            <dc:creator><![CDATA[Zong Xun]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[序言]]></title>
+            <description><![CDATA[这是一本关于集合 Git、Github、Gitlab、Gitbook、gitOps 的书。]]></description>
+            <link>https://smoothies.com.cn/gitbook-demo/</link>
+            <guid isPermaLink="true">https://smoothies.com.cn/gitbook-demo/</guid>
+            <dc:creator><![CDATA[Zong Xun]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Git]]></title>
+            <description><![CDATA[@[toc]]]></description>
+            <link>https://smoothies.com.cn/gitbook-demo/Git/README.html</link>
+            <guid isPermaLink="true">https://smoothies.com.cn/gitbook-demo/Git/README.html</guid>
+            <dc:creator><![CDATA[Zong Xun]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[git 实践]]></title>
+            <description><![CDATA[初始化存储库后，会创建一个名为.git的新隐藏子目录。该子目录包含 Git 用于存储其信息的元数据。]]></description>
+            <link>https://smoothies.com.cn/gitbook-demo/Git/1_git_practice.html</link>
+            <guid isPermaLink="true">https://smoothies.com.cn/gitbook-demo/Git/1_git_practice.html</guid>
+            <dc:creator><![CDATA[Zong Xun]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[github 介绍]]></title>
+            <description><![CDATA[GitHub 是一个共享虚拟主机服务，用于存放使用Git版本控制的软件代码和内容项目。它由GitHub公司（曾称Logical
+Awesome）的开发者Chris Wanstrath、PJ Hyett和Tom Preston-Werner使用Ruby on Rails编写而成。]]></description>
+            <link>https://smoothies.com.cn/gitbook-demo/Github/README.html</link>
+            <guid isPermaLink="true">https://smoothies.com.cn/gitbook-demo/Github/README.html</guid>
+            <dc:creator><![CDATA[Zong Xun]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[本地同步github仓库]]></title>
+            <description><![CDATA[1.win下载git工具：git bash 、git gui 、git cmd
+https://git-scm.com/downloads
+linux环境下如果yum源有git包，]]></description>
+            <link>https://smoothies.com.cn/gitbook-demo/Github/2_github_local_pull_github.html</link>
+            <guid isPermaLink="true">https://smoothies.com.cn/gitbook-demo/Github/2_github_local_pull_github.html</guid>
+            <dc:creator><![CDATA[Zong Xun]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Gitbook]]></title>
+            <description><![CDATA[Gitbook 是一款优秀的开源文档管理工具, 具有丰富的开源插件，它的源码可以在 GitHub 上获取。]]></description>
+            <link>https://smoothies.com.cn/gitbook-demo/Gitbook/README.html</link>
+            <guid isPermaLink="true">https://smoothies.com.cn/gitbook-demo/Gitbook/README.html</guid>
+            <dc:creator><![CDATA[Zong Xun]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[gitbook 插件 summary]]></title>
+            <description><![CDATA[Gitbook 插件：自动生成 summary.md 文件内容，如果有很多md文件，这个插件可以帮助你生成初始版本。]]></description>
+            <link>https://smoothies.com.cn/gitbook-demo/Gitbook/2_gitbook-plugin-summary.html</link>
+            <guid isPermaLink="true">https://smoothies.com.cn/gitbook-demo/Gitbook/2_gitbook-plugin-summary.html</guid>
+            <dc:creator><![CDATA[Zong Xun]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[gitbook 发布 github pages]]></title>
+            <description><![CDATA[例如：git-handbook]]></description>
+            <link>https://smoothies.com.cn/gitbook-demo/Gitbook/3_github_pages_gitbook.html</link>
+            <guid isPermaLink="true">https://smoothies.com.cn/gitbook-demo/Gitbook/3_github_pages_gitbook.html</guid>
+            <dc:creator><![CDATA[Zong Xun]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[插件]]></title>
+            <description><![CDATA[Gitbook默认带有7个插件（功能性5个，搜索有两个，主题一个）：]]></description>
+            <link>https://smoothies.com.cn/gitbook-demo/Gitbook/Plugins/README.html</link>
+            <guid isPermaLink="true">https://smoothies.com.cn/gitbook-demo/Gitbook/Plugins/README.html</guid>
+            <dc:creator><![CDATA[Zong Xun]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Emoji 表情包]]></title>
+            <description><![CDATA[advanced-emoji  插件：支持显示 emoji 表情。]]></description>
+            <link>https://smoothies.com.cn/gitbook-demo/Gitbook/Plugins/1_plugin_Emoji.html</link>
+            <guid isPermaLink="true">https://smoothies.com.cn/gitbook-demo/Gitbook/Plugins/1_plugin_Emoji.html</guid>
+            <dc:creator><![CDATA[Zong Xun]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Gitbook 快速入门]]></title>
+            <description><![CDATA[Gitbook 是一款优秀的 基于 Node.js 的开源文档管理工具，具有丰富的开源插件。]]></description>
+            <link>https://smoothies.com.cn/gitbook-demo/Gitbook/1_gitbook_start.html</link>
+            <guid isPermaLink="true">https://smoothies.com.cn/gitbook-demo/Gitbook/1_gitbook_start.html</guid>
+            <dc:creator><![CDATA[Zong Xun]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Gitlab]]></title>
+            <description><![CDATA[Gitlab 是一个开源的Git代码仓库系统，可以实现自托管的Github项目，即用于构建私有的代码托管平台和项目管理系统。系统基于Ruby on Rails开发，速度快、安全稳定。它拥有与Github类似的功能，能够浏览源代码，管理缺陷和注释。可以管理团队对仓库的访问，它非常易于浏览提交过的版本并提供一个文件历史库。团队成员可以利用内置的简单聊天程序(Wall)进行交流。它还提供一个代码片段收集功能可以轻松实现代码复用，便于日后有需要的时候进行查找。]]></description>
+            <link>https://smoothies.com.cn/gitbook-demo/Gitlab/README.html</link>
+            <guid isPermaLink="true">https://smoothies.com.cn/gitbook-demo/Gitlab/README.html</guid>
+            <dc:creator><![CDATA[Zong Xun]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[gitlab 配置]]></title>
+            <description><![CDATA[相关阅读：]]></description>
+            <link>https://smoothies.com.cn/gitbook-demo/Gitlab/3_gitlab_config.html</link>
+            <guid isPermaLink="true">https://smoothies.com.cn/gitbook-demo/Gitlab/3_gitlab_config.html</guid>
+            <dc:creator><![CDATA[Zong Xun]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[gitlab-runner 管理]]></title>
+            <description><![CDATA[更多阅读：]]></description>
+            <link>https://smoothies.com.cn/gitbook-demo/Gitlab/5_gitlab_runner_management.html</link>
+            <guid isPermaLink="true">https://smoothies.com.cn/gitbook-demo/Gitlab/5_gitlab_runner_management.html</guid>
+            <dc:creator><![CDATA[Zong Xun]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[gitlab-runner 部署]]></title>
+            <description><![CDATA[当然，我们可以安装官方的方法安装，从gitlab就可以找到简洁的安装方式：
+在这里插入图片描述
+在这里插入图片描述]]></description>
+            <link>https://smoothies.com.cn/gitbook-demo/Gitlab/4_gitlab_runner_deploy.html</link>
+            <guid isPermaLink="true">https://smoothies.com.cn/gitbook-demo/Gitlab/4_gitlab_runner_deploy.html</guid>
+            <dc:creator><![CDATA[Zong Xun]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[gitlab 开始]]></title>
+            <description><![CDATA[jenkins插件地址： http://updates.jenkins-ci.org/download/plugins/]]></description>
+            <link>https://smoothies.com.cn/gitbook-demo/Gitlab/1_gitlab_start.html</link>
+            <guid isPermaLink="true">https://smoothies.com.cn/gitbook-demo/Gitlab/1_gitlab_start.html</guid>
+            <dc:creator><![CDATA[Zong Xun]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[gitlab 部署]]></title>
+            <description><![CDATA[Gitlab是一个开源的Git代码仓库系统，可以实现自托管的Github项目，即用于构建私有的代码托管平台和项目管理系统。系统基于Ruby on Rails开发，速度快、安全稳定。它拥有与Github类似的功能，能够浏览源代码，管理缺陷和注释。可以管理团队对仓库的访问，它非常易于浏览提交过的版本并提供一个文件历史库。团队成员可以利用内置的简单聊天程序(Wall)进行交流。它还提供一个代码片段收集功能可以轻松实现代码复用，便于日后有需要的时候进行查找。
+在这里插入图片描述]]></description>
+            <link>https://smoothies.com.cn/gitbook-demo/Gitlab/2_gitlab_deploy.html</link>
+            <guid isPermaLink="true">https://smoothies.com.cn/gitbook-demo/Gitlab/2_gitlab_deploy.html</guid>
+            <dc:creator><![CDATA[Zong Xun]]></dc:creator>
+        </item>
+    </channel>
+</rss>
